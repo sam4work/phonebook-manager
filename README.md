@@ -6,34 +6,16 @@ A simple fullstack application to manager contacts using different frontend and 
 
 ## Run Locally
 
-Clone the project
+Laravel Backend + React JS frontend
+- [Laravel PHP](https://github.com/sam4work/phonebook-api-laravel.git)
+- [React JS](https://github.com/sam4work/phonebook-ui-reactjs.git)
 
-```bash
-  git clone https://github.com/sam4work/phonebook-ui-reactjs.git
-```
-
-Go to the project directory
-
-```bash
-  cd phonebook-ui-reactjs
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run dev
-```
-
+Instruction on how to run the projects locally are in the README file for each repo.
 
 ## Tech Stack
 
 **Client:** React (Typescript), Zustand, TailwindCSS
+**Server:** Laravel (Breeze API), MySQL 
 
 
 
