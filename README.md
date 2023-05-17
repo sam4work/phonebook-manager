@@ -14,8 +14,8 @@ Instruction on how to run the projects locally are in the README file for each r
 
 ## Tech Stack
 
-**Client:** React (Typescript), Zustand, TailwindCSS
-**Server:** Laravel (Breeze API), MySQL 
+***Client:*** React (Typescript), Zustand, TailwindCSS
+***Server:*** Laravel (Breeze API), MySQL 
 
 
 
